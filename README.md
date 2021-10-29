@@ -1,7 +1,7 @@
 # Tommaso Fonda (Tomoms)
 
-- :mortar_board: Electronics & Computer engineer
-- :wrench: Curious about Android & Linux kernel development
+- :mortar_board: Electronics & Computer engineering
+- :wrench: Curious about Android & Linux kernel development & tweaking
 - [LineageOS](https://lineageos.org/) device maintainer (bacon)
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Tomoms)
