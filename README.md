@@ -2,4 +2,4 @@
 
 - :mortar_board: Electronic & Computer engineering
 - :wrench: Curious about Android & Linux kernel development & tweaking
-- [LineageOS](https://lineageos.org/) developer (rhode, mata, bacon)
+- [LineageOS](https://lineageos.org/) developer (ingot, rhode, mata, bacon)
